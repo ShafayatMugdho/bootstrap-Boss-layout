@@ -1,0 +1,20 @@
+.header, .hero, .body, .bar, .footer{
+	margin-bottom: 10px;
+	background-color: black;
+}
+
+.box{
+	margin: 10px 0;
+	height: 75px;
+	background-color: bisque;
+	color: black;
+	font-size: 25px;
+}
+
+.three{
+	background-color: skyblue;
+}
+
+.five{
+	background-color: silver;
+}
